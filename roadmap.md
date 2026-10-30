@@ -1,0 +1,7 @@
+- [x] Finish admin listing/photo/profile controls and public listing display.
+- [x] Enable administrator access for the verified designated email.
+- [x] Check public inventory, signed-out admin redirect, sign-up screen, reset validation, and mobile sign-in.
+- [x] Resolve subtype typing and verify automatic build; finish photo cleanup and prevent false profile-save success.
+- [x] Verify signed-in listing management — admin panel loads, add-listing form opens, owner's listing shows on public site.
+- [ ] Lead tracking/routing — deferred until the admin stage is accepted.
+- [ ] Site-visit booking — deferred until lead tracking is accepted.
